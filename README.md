@@ -8,9 +8,9 @@
 	</head>
 	
 	<body>
-		<h1>Currículo Bruno Marques</h1>
+		<h1>Currículo Roberto Pereira Filho</h1>
 
-		<img src="https://s.gravatar.com/avatar/8908a077b1214c3c9a2eb4539746e7f6?s=80.jpg?size=200" alt="photo of Bruno" class="photo"/>
+		<img src="" alt="photo of Roberto" class="photo"/>
 				  		
 		<ul id="menu">
 			
@@ -19,7 +19,7 @@
 		
 		<div class="secao">
 			<h2>Dados Pessoais</h2>			
-				<div id="hcard-ROberto Pereira" class="vcard">
+				<div id="hcard-Roberto Pereira" class="vcard">
 				 <span class="given-name">Roberto</span>
 				  <span class="additional-name">Pereira</span>
 				  <span class="family-name">Filho</span>
