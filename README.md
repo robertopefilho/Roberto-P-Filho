@@ -1,22 +1,17 @@
 # curriculumm
 
-<h<html>
+<html>
 	<head>
 		<title>Curriculum Roberto Pereira </title>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 		<link rel="stylesheet" type="text/css" href="style.css">
-	</head>
-	
+	</head>	
 	<body>
 		<h1>Currículo Roberto Pereira Filho</h1>
-
-		<img src="Foto_curriculo.jpg" alt="photo of Roberto" class="photo"/>
-				  		
-		<ul id="menu">
-			
+		<img src="Foto_curriculo.jpg" alt="photo of Roberto" class="photo"/>			  		
+		<ul id="menu">		
 			<li class="ativo">Completo</li>
-		</ul>
-		
+		</ul>	
 		<div class="secao">
 			<h2>Dados Pessoais</h2>			
 				<div id="hcard-Roberto Pereira" class="vcard">
@@ -24,34 +19,25 @@
 				  <span class="additional-name">Pereira</span>
 				  <span class="family-name">Filho</span>
 				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
-
-				 <a class="email" href="robertopereirafilho@gmail.com">robertopefilho@gmail.com.com</a>
-				
-				
+				 <a class="email" href="robertopereirafilho@gmail.com">robertopefilho@gmail.com.com</a>		
 				<div class="adr">
 				  <span class="locality">Belo Horizonte</span>
 				, 
 				  <span class="region">Minas gerais</span>
-
 				 </div>
 				</div>
 		</div>
-
 		<div class="secao">
-			<h2>Dados Profissionais</h2>
-			
+			<h2>Dados Profissionais</h2>	
 			<p><label>Empresa</label>  Kadochi</p>
 			<p><label>Empresa</label>  Micron</p>
 			<p><label>Empresa</label>  Dicom</p>
 		</div>
-
 		<div class="secao">
-			<h2>Formação Acadêmica</h2>
-			
+			<h2>Formação Acadêmica</h2>		
 			<p><label>Curso</label>Tecnico em Informatica </p>
 			<p><label>Curso</label>Bacharel sistemas de informações</p>
 		</div>
-
 		<div class="secao">
 			<h2>Formação Complementar</h2>
 			<table>
@@ -79,7 +65,6 @@
 				</tr>
 			</table>			
 		</div>
-
 		<div class="secao">
 			<h2>Línguas</h2>
 			<table>
@@ -105,19 +90,15 @@
 				</tr>
 			</table>			
 		</div>
-
 		<form action="#" method="post">
 			<fieldset>
 			<legend>Entre em contato</legend>
 			<label for="nome">Nome</label>
 			<input type="text" name="nome"/>
-
 			<label for="nome">Email</label>
 			<input type="text" name="email"/>
-
 			<label for="nome">Mensagem</label>
 			<textarea name="msg"></textarea>
-
 			<input type="submit" value="enviar"/>
 			</fieldset>
 		</form>	
