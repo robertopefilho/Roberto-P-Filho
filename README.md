@@ -25,7 +25,7 @@
 				  <span class="family-name">Filho</span>
 				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
 
-				 <a class="email" href="robertopereirafilho@gmail.com">brunight15@gmail.com</a>
+				 <a class="email" href="robertopereirafilho@gmail.com">robertopefilho@gmail.com.com</a>
 				
 				
 				<div class="adr">
