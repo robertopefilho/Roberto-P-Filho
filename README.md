@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Curriculum Bruno Marques</title>
+		<title>Curriculum Roberto Pereira </title>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
@@ -19,13 +19,13 @@
 		
 		<div class="secao">
 			<h2>Dados Pessoais</h2>			
-				<div id="hcard-Bruno Marques" class="vcard">
-				 <span class="given-name">Bruno</span>
-				  <span class="additional-name">Marques</span>
-				  <span class="family-name">Santos</span>
+				<div id="hcard-ROberto Pereira" class="vcard">
+				 <span class="given-name">Roberto</span>
+				  <span class="additional-name">Pereira</span>
+				  <span class="family-name">Filho</span>
 				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
 
-				 <a class="email" href="brunightmarques@hotmail.com">brunight15@gmail.com</a>
+				 <a class="email" href="robertopereirafilho@gmail.com">brunight15@gmail.com</a>
 				
 				
 				<div class="adr">
@@ -40,15 +40,15 @@
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
 			
-			<p><label>Empresa</label>  Imperio</p>
-			<p><label>Empresa</label>  Casa & tintas</p>
-			<p><label>Empresa</label>  Autonomo</p>
+			<p><label>Empresa</label>  Kadochi</p>
+			<p><label>Empresa</label>  Micron</p>
+			<p><label>Empresa</label>  Dicom</p>
 		</div>
 
 		<div class="secao">
 			<h2>Formação Acadêmica</h2>
 			
-			<p><label>Curso</label>tecnico em eletronica </p>
+			<p><label>Curso</label>Tecnico em Informatica </p>
 			<p><label>Curso</label>Bacharel sistemas de informações</p>
 		</div>
 
