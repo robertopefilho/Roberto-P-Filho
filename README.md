@@ -7,7 +7,7 @@
 	</head>	
 	<body>
 		<h1>Currículo Roberto Pereira Filho</h1>
-		<img src="Foto_curriculo.jpg" alt="photo of Roberto" class="circle"  background-color: #ddd;
+		<img src="Foto_curriculo.jpg" alt="photo of Roberto" class=""  background-color: #ddd;
   border-radius: 100%;
   height: 200px;
   object-fit: cover;
@@ -40,33 +40,6 @@
 			<h2>Formação Acadêmica</h2>		
 			<p><label>Curso</label>Tecnico em Informatica </p>
 			<p><label>Curso</label>Bacharel sistemas de informações</p>
-		</div>
-		<div class="secao">
-			<h2>Formação Complementar</h2>
-			<table>
-				<thead>
-				<tr>
-					<th>Curso</th>
-					<th>Carga horária</th>
-				</tr>
-				</thead>
-				<tr class="par">
-					<td>Pontos de Função</td>
-					<td>40h</td>
-				</tr>
-				<tr class="impar">
-					<td>Testes de Software</td>
-					<td>40h</td>
-				</tr>
-				<tr class="par">
-					<td>Ferramenta de Testes de Software</td>
-					<td>16h</td>
-				</tr>
-				<tr class="impar">
-					<td>Requisitos de Software</td>
-					<td>24h</td>
-				</tr>
-			</table>			
 		</div>
 		<div class="secao">
 			<h2>Línguas</h2>
