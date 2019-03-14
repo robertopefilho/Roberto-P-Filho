@@ -1,4 +1,4 @@
-# curriculumm
+
 <html>
 	<head>
 		<title>Curriculum Roberto Pereira </title>
@@ -7,7 +7,7 @@
 	</head>	
 	<body>
 		<h1>Currículo Roberto Pereira Filho</h1>
-		<img src="Foto_curriculo.jpg" alt="photo of Roberto" class=""  background-color: #ddd;
+		<img src="Foto_curriculo.jpg" alt="photo of Roberto" background-color: #ddd;
   border-radius: 100%;
   height: 200px;
   object-fit: cover;
