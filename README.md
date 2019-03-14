@@ -7,11 +7,7 @@
 	</head>	
 	<body>
 		<h1>Currículo Roberto Pereira Filho</h1>
-		<img src="img.jpg" alt="photo of Roberto" class="photo"background-color: #ddd;
-  border-radius: 100%;
-  height: 200px;
-  object-fit: cover;
-  width: 200px; />			  		
+		<img src="img.jpg" alt="photo of Roberto" class="photo"  />			  		
 		<ul id="menu">		
 			<li class="ativo">Completo</li>
 		</ul>	
