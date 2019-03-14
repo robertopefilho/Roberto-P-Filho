@@ -7,7 +7,7 @@
 	</head>	
 	<body>
 		<h1>Currículo Roberto Pereira Filho</h1>
-		<img src="img.jpg" alt="photo of Roberto" class="photo"  />			  		
+		<img src="img.jpg"/>			  		
 		<ul id="menu">		
 			<li class="ativo">Completo</li>
 		</ul>	
